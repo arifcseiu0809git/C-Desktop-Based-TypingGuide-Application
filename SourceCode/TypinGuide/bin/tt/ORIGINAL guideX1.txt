@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
+THUMB  FOR                     [SPACEBAR]
+LEFT   PINKY  FINGEF /UP/UP             !
+RIGHT  PINKY  FINGEF /RIGHT             "
+LEFT   MIDDLE FINGEF /UP/UP             #
+LEFT   INDEX  FINGEF /UP/UP             $
+LEFT   INDEX  FINGEF /UP/UP/RIGHT       %
+RIGHT  INDEX  FINGEF /UP/UP             &
+RIGHT  PINKY  FINGEF /RIGHT             '
+RIGHT  RING   FINGEF /UP/UP             (
+RIGHT  RING   FINGEF /UP/UP/RIGHT       )
+RIGHT  MIDDLE FINGEF /UP/UP             *
+RIGHT  PINKY  FINGEF /UP/UP/RIGHT/RIGHT +
+RIGHT  MIDDLE FINGEF /DOWN              ,
+RIGHT  PINKY  FINGEF /UP/UP/RIGHT       - 
+RIGHT  RING   FINGEF /DOWN              .
+RIGHT  PINKY  FINGEF /DOWN              /
+RIGHT  PINKY  FINGEF /UP/UP             0
+LEFT   PINKY  FINGEF /UP/UP             1  
+LEFT   RING   FINGEF /UP/UP             2
+LEFT   MIDDLE FINGEF /UP/UP             3
+LEFT   INDEX  FINGEF /UP/UP             4
+LEFT   INDEX  FINGEF /UP/UP/RIGHT       5 
+RIGHT  INDEX  FINGEF /UP/UP/LEFT        6 
+RIGHT  INDEX  FINGEF /UP/UP             7
+RIGHT  MIDDLE FINGEF /UP/UP             8 
+RIGHT  RING   FINGEF /UP/UP             9
+RIGHT  PINKY  FINGER                    : 
+RIGHT  PINKY  FINGER                    ; 
+RIGHT  MIDDLE FINGEF /DOWN              < 
+RIGHT  PINKY  FINGEF /UP/UP/RIGHT/RIGHT = 
+RIGHT  RING   FINGEF /DOWN              > 
+RIGHT  PINKY  FINGEF /DOWN              ? 
+LEFT   RING   FINGEF /UP/UP             @ 
+LEFT   PINKY  FINGER                    A 
+LEFT   INDEX  FINGEF /DOWN/RIGHT        B 
+LEFT   MIDDLE FINGEF /DOWN              C 
+LEFT   MIDDLE FINGER                    D 
+LEFT   MIDDLE FINGEF /UP                E 
+LEFT   INDEX  FINGER                    F 
+LEFT   INDEX  FINGEF /RIGHT             G 
+RIGHT  INDEX  FINGEF /LEFT              H 
+RIGHT  MIDDLE FINGEF /UP                I 
+RIGHT  INDEX  FINGER                    J 
+RIGHT  MIDDLE FINGER                    K 
+RIGHT  RING   FINGER                    L 
+RIGHT  INDEX  FINGEF /DOWN              M 
+RIGHT  INDEX  FINGEF /DOWN/LEFT         N 
+RIGHT  RING   FINGEF /UP                O 
+RIGHT  PINKY  FINGEF /UP                P 
+LEFT   PINKY  FINGEF /UP                Q 
+LEFT   INDEX  FINGEF /UP                R 
+LEFT   RING   FINGER                    S 
+LEFT   INDEX  FINGEF /UP/RIGHT          T 
+RIGHT  INDEX  FINGEF /UP                U 
+LEFT   INDEX  FINGEF /DOWN              V
+LEFT   RING   FINGEF /UP                W 
+LEFT   RING   FINGEF /DOWN              X 
+RIGHT  INDEX  FINGEF /UP/LEFT           Y 
+LEFT   PINKY  FINGEF /DOWN              Z 
+RIGHT  PINKY  FINGEF /UP/RIGHT          [ 
+RIGHT  PINKY  FINGEF /UP/3XRIGHT        \ 
+RIGHT  PINKY  FINGEF /UP/RIGHT/RIGHT    ] 
+RIGHT  INDEX  FINGEF /UP/UP/LEFT        ^ 
+RIGHT  PINKY  FINGEF /UP/UP/RIGHT       _ 
+LEFT   PINKY  FINGEF /RIGHT             ` 
+LEFT   PINKY  FINGER                    a 
+LEFT   INDEX  FINGEF /DOWN/RIGHT        b 
+LEFT   MIDDLE FINGEF /DOWN              c 
+LEFT   MIDDLE FINGER                    d 
+LEFT   MIDDLE FINGEF /UP                e 
+LEFT   INDEX  FINGER                    F 
+LEFT   INDEX  FINGEF /RIGHT             g 
+RIGHT  INDEX  FINGEF /LEFT              h 
+RIGHT  MIDDLE FINGEF /UP                i 
+RIGHT  INDEX  FINGER                    j 
+RIGHT  MIDDLE FINGER                    k 
+RIGHT  RING   FINGER                    l 
+RIGHT  INDEX  FINGEF /DOWN              m 
+RIGHT  INDEX  FINGEF /DOWN/LEFT         n 
+RIGHT  RING   FINGEF /UP                o 
+RIGHT  PINKY  FINGEF /UP                p 
+LEFT   PINKY  FINGEF /UP                q 
+LEFT   INDEX  FINGEF /UP                r 
+LEFT   RING   FINGER                    s 
+LEFT   INDEX  FINGEF /UP/RIGHT          t 
+RIGHT  INDEX  FINGEF /UP                u 
+LEFT   INDEX  FINGEF /DOWN              v 
+LEFT   RING   FINGEF /UP                w 
+LEFT   RING   FINGEF /DOWN              x 
+RIGHT  INDEX  FINGEF /UP/LEFT           y 
+LEFT   PINKY  FINGEF /DOWN              z 
+RIGHT  PINKY  FINGEF /UP/RIGHT          { 
+RIGHT  PINKY  FINGEF /UP/3XRIGHT        | 
+RIGHT  PINKY  FINGEF /UP/RIGHT/RIGHT    } 
+LEFT   PINKY  FINGEF /UP/UP/LEFT        ~ 
+DEL 

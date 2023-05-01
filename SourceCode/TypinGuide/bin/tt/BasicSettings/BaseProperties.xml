@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BasicSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Basic ID="1">
+    <TitleMessage>Welcome To Typing Guide! **********</TitleMessage>
+    <StopCursorOnError>true</StopCursorOnError>
+    <ForgiveError>false</ForgiveError>
+    <EnableSound>False</EnableSound>
+    <EnabelCapitalLetter>false</EnabelCapitalLetter>
+    <EnableTextToSpeech>False</EnableTextToSpeech>
+    <VoiceName>Microsoft David Desktop</VoiceName>
+    <SynRate>10</SynRate>
+    <SynVolume>100</SynVolume>
+  </Basic>
+  <Flash ID="2">
+    <Line1>Welcome To TypinGuide!</Line1>
+    <Line2>We Will Teach You, How To Type Faster Using PC Keyboard.</Line2>
+    <Line3>Thanking You Again.</Line3>
+    <Line4>Be With Us.</Line4>
+  </Flash>
+  <EndingFlash ID="3">
+    <Line1>Thanking You For Using Our TypinGuide</Line1>
+    <Line2>Good Bye</Line2>
+  </EndingFlash>
+</BasicSettings>

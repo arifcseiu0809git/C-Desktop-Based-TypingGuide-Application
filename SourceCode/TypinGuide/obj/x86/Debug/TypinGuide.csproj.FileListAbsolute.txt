@@ -1,0 +1,707 @@
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide(Final)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+E:\Repositories\TypingGuide\TypingGuide(19_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(19_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(19_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\TypingGuide(19_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(19_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide\TypingGuide(27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_27_07_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide\TypingGuide(Updated_02_08_2019)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Repositories\TypingGuide\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+C:\Users\pc01.VINTAGEBD\Desktop\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Original Version\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\New folder\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Typin Guide\Update Typin Guide_15_11_2019\Update Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Typin Guide\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide(Working)\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide(Working)\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide(Working)\TypingGuide(Working)\TypingGuide(Working)\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Latest Typing Guide\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\Typing Guide_10_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\Typing Guide_17_01_2020\Typing Guide_10_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojAssemblyReference.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.CopyComplete
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\Typing Guide_18_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojAssemblyReference.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.cache
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.CopyComplete
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Vintage\Vintage\Typing_Guide\18-01-2020\19-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojAssemblyReference.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.CopyComplete
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Vintage\Fresh_Vintage\Type_Guide\21-01-2020 2pm\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojAssemblyReference.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.cache
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.CopyComplete
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Vintage\Fresh_Vintage\Type_Guide\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\22-01-2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_22_01_2020\22-01-2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+D:\Working\Mahbbat_Working_Space\Typing_Guide\TypingGuide_24_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\25-01-2020_Mahbbat\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_26_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_27_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_31_01_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\ArifWorksapce\Latest Typing Guide\TypingGuide_06_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_07_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+F:\Office Task\Latest Typing Guide\TypingGuide_10_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojAssemblyReference.cache
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.cache
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.CopyComplete
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+E:\Vintage\Typing_Guide\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe.config
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.ResolveComReference.cache
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.exe
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.pdb
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.exe
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\TypinGuide.pdb
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\ScreenKeyboardControl.dll
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\Interop.WMPLib.dll
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\bin\AxInterop.WMPLib.dll
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csprojResolveAssemblyReference.cache
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmAbout.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmMain.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmPracticeLessionList.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmSettings.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinLetter.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinWord.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.frmTypinGuide.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\prjTypinGuide.Properties.Resources.resources
+C:\Users\Ariful\Desktop\12-02-2020\12-02-2020\TypingGuide_12_02_2020\SourceCode\TypinGuide\obj\x86\Debug\TypinGuide.csproj.GenerateResource.Cache
